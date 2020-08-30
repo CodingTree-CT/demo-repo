@@ -5,3 +5,4 @@ Terms
 
 Repo is a repository or a folder for all your project files
 Commit is eqvavilent to a "Save"
+Hash is a id for a commit
