@@ -9,3 +9,5 @@ Hash is a id for a commit
 
 On the Experimenta branch
   branches are nice
+
+Working on The Teminal feels nice
