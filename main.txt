@@ -1,2 +1,7 @@
 Git is DVSC(Distrubuted Version System Control)
 It is awesome
+
+Terms
+
+Repo is a repository or a folder for all your project files
+Commit is eqvavilent to a "Save"
