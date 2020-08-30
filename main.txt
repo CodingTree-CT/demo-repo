@@ -1,0 +1,2 @@
+Git is DVSC(Distrubuted Version System Control)
+It is awesome
